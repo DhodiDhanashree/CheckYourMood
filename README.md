@@ -1,1 +1,2 @@
 # CheckYourMood
+A PowerApps and PowerAutomate solution integrates with the Azure Cognitive Language Sentiment Service to analyze and comprehend the sentiment within text data. This integration uses Azure Cognitive services to automatically identify and classify the sentiment (positive, negative, or neutral) of textual content. By combining the capabilities of Microsoft's Power Platform with Azure's AI tools, organizations can optimize their processes, obtain valuable insights, and improve employee mental health management through sentiment analysis of text data.
